@@ -1,0 +1,6 @@
+@WebAPI_Carlos_Chica_20261112_HostAddress = http://localhost:5179
+
+GET {{WebAPI_Carlos_Chica_20261112_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
